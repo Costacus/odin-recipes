@@ -6,4 +6,4 @@ This project combines all aspects of web development I have encountered until no
 1. Using git (pushin/pulling data from repository to my local machine)
 2. Writing HTML documents using a few basic elements and attributes that change de behaviour of those elements
 3. Using links to move around my website and to embed images
-
+4. Structuring the information into bite-sized pieces, making it easier to read
