@@ -1,0 +1,19 @@
+body {
+    background-color: #e0cfbd;
+    width: 800px;
+    margin: 0px auto;
+
+}
+img {
+    border: solid black;
+}
+.instruction-photo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1, h2, h3, h4 {
+    font-family: "Monaco", monospace;
+}
+p, li {
+    font-family: "Courier New", monospace;
+}
