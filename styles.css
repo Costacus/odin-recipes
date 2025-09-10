@@ -1,8 +1,11 @@
 body {
     background-color: #e0cfbd;
     width: 800px;
-    margin: 0px auto;
-
+    margin: 15px auto;
+    padding: 20px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
 }
 img {
     border: solid black;
@@ -16,4 +19,10 @@ h1, h2, h3, h4 {
 }
 p, li {
     font-family: "Courier New", monospace;
+}
+.inline-list {
+    display: inline-block;
+    width: 190px;
+    height: auto;
+    vertical-align: top;
 }
